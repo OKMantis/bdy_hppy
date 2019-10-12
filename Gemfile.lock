@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    bdy_hppy (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bdy_hppy!
+
+BUNDLED WITH
+   2.0.2
